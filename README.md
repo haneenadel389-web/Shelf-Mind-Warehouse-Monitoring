@@ -15,6 +15,18 @@ A smart system using **STM32 (Blue Pill)** as the main controller that:
 - Displays live data on a 16x2 I2C LCD
 - Alerts via LEDs and buzzer
 
+---
+
+## Prototype
+
+### Final Device
+![Shelf Mind Prototype](Shelf_Mind_Prototype.jpg)
+
+### Wiring Diagram
+![Shelf Mind Wiring](Shelf_Mind_Wiring.jpg)
+
+---
+
 ## Hardware
 | Component | STM32 Pin | Function |
 |---|---|---|
